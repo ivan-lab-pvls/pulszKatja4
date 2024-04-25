@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"pulsz-app","appId":"1:656160925087:android:2fdd3f7ff7a1fff1c509aa","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"pulsz-app","configurations":{"android":"1:656160925087:android:2fdd3f7ff7a1fff1c509aa","ios":"1:656160925087:ios:78c7dc8d5cf9ea11c509aa"}}}}}}

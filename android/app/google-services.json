@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656160925087",
+    "project_id": "pulsz-app",
+    "storage_bucket": "pulsz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656160925087:android:2fdd3f7ff7a1fff1c509aa",
+        "android_client_info": {
+          "package_name": "com.pulsz.gamio.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MEJNQPYA_J41E8lFfK4ovxUbCACscrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
